@@ -6,3 +6,5 @@ This is a test project for explain
 これが説明だよ～～～～わぁ～～い
 
 ## about
+
+githubのページから更新する
